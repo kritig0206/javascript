@@ -1,9 +1,0 @@
-console.log("2">=2)
-console.log(NaN==NaN)
-console.log(NaN===NaN)
-
-console.log(null>0);
-console.log(null>=0);
-console.log(null==0);
-
-///same for undefined

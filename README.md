@@ -7,3 +7,4 @@ DOM manipulation and core JavaScript concepts.
 - Color Scheme Switcher
 - BMI generator
 - Digital Clock
+- Number Guesser

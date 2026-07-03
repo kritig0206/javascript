@@ -8,3 +8,4 @@ DOM manipulation and core JavaScript concepts.
 - BMI generator
 - Digital Clock
 - Number Guesser
+- Unlimited Colors
